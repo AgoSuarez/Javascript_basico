@@ -1,0 +1,1 @@
+document.write("<h1>Javascript Basico</h1>");
